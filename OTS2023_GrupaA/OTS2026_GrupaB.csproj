@@ -6,12 +6,13 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{54640B19-28A5-4D35-B59B-C2D9BF15624B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OTS2023_GrupaB</RootNamespace>
-    <AssemblyName>OTS2023_GrupaB</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>OTS2026_GrupaB</RootNamespace>
+    <AssemblyName>OTS2026_GrupaB</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

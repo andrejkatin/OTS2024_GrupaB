@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OTS2023_GrupaA.Models
+namespace OTS2026_GrupaB.Models
 {
     public class Position
     {

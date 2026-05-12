@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OTS2023_GrupaA.Exceptions
+namespace OTS2026_GrupaB.Exceptions
 {
     public class PositionOutsideOfMapException: Exception
     {

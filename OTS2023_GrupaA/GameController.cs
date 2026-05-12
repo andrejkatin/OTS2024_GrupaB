@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OTS2023_GrupaA
+namespace OTS2026_GrupaB
 {
     public class GameController
     {

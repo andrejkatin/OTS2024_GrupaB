@@ -12,13 +12,14 @@
     <ProjectGuid>{0F31792A-07EF-4644-B085-13C7B33B1205}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OTS2023_GrupaB.Test</RootNamespace>
-    <AssemblyName>OTS2023_GrupaB.Test</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>OTS2026_GrupaB.Test</RootNamespace>
+    <AssemblyName>OTS2026_GrupaB.Test</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -119,9 +120,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OTS2023_GrupaA\OTS2023_GrupaB.csproj">
+    <ProjectReference Include="..\OTS2023_GrupaA\OTS2026_GrupaB.csproj">
       <Project>{54640b19-28a5-4d35-b59b-c2d9bf15624b}</Project>
-      <Name>OTS2023_GrupaB</Name>
+      <Name>OTS2026_GrupaB</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
